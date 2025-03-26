@@ -59,7 +59,7 @@
 
     <div class="header">
         <h1>Hemalatha K</h1>
-        <p>Software Developer</p>
+        <p>Student</p>
     </div>
 
     <div class="container">
